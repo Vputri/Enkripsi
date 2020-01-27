@@ -8,9 +8,10 @@ Anggota Kelompok :
 2. Vika Putri Ariyanti (56417094)
 
 Universitas Gunadarma
+
 PTA 2019/2020
 
-https://github.com/Vputri/tugas_os
+Link Program Uji Coba:
 
 https://github.com/Vputri/Membuat-Enkripsi
 
