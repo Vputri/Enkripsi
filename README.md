@@ -9,3 +9,7 @@ Anggota Kelompok :
 
 Universitas Gunadarma
 PTA 2019/2020
+
+https://github.com/Vputri/tugas_os
+https://github.com/Vputri/Membuat-Enkripsi
+https://github.com/Vputri/MembuatOS
