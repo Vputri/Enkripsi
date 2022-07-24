@@ -1,5 +1,5 @@
 # Tugas Sistem Operasi
-Membuat Enksripsi Sederhana
+Membuat Enksripsi Sederhana dan OS Sederhana
 
 Kelas : 3IA88
 
