@@ -1,5 +1,5 @@
 # Tugas Sistem Operasi
-Membuat Enksripsi Sederhana dan OS Sederhana
+Membuat Enksripsi Sederhana
 
 Kelas : 3IA88
 
@@ -10,9 +10,3 @@ Anggota Kelompok :
 Universitas Gunadarma
 
 PTA 2019/2020
-
-Link Program Uji Coba:
-
-https://github.com/Vputri/Membuat-Enkripsi
-
-https://github.com/Vputri/MembuatOS
